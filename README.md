@@ -17,3 +17,6 @@ I denne klasse viser jeg nogle af de ting, jeg indtil videre har lært i program
 Denne klasse indeholder main(), der sætter de tre øvrige klasser i spil.
 ### Uddannelsesinstitution
 ![alt text](https://i.imgur.com/9sLiL1D.png "ErhvervsAkademi Sjælland")
+
+```diff
+Dette repository indgår desuden som en del af Bunden Forudsætning #2
